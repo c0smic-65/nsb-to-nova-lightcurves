@@ -1,2 +1,2 @@
 # nsb-to-nova-lightcurves
-Pipeline to obtain NSB derived nova light curves
+Pipeline to obtain NSB-derived nova light curves using HESS NSB data
